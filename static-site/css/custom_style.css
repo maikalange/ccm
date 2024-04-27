@@ -7,3 +7,10 @@
 .hero-images{
     width:360px;height:240px
 }
+
+.carousel-item{
+    height: 256px;
+}
+body{
+    overflow-x: hidden;
+}
